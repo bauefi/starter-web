@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website mock project. Adding a line for rebasing example
+This is a simple website mock project. Adding a line for rebasing example. Some more changes
 
 ## Introduction
 
