@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+This is a simple website mock project
 ## Introduction
 
 ## Purpose
