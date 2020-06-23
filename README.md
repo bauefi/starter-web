@@ -16,4 +16,5 @@ Don't
 
 ## How to contribute
 
-Can't
+## Copyright
+xxx
