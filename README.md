@@ -17,6 +17,6 @@ Don't
 ## How to contribute
 
 ## Copyright
-xxx
+xxx All rights reversed
 
 ## Thanks
