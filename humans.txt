@@ -4,6 +4,7 @@
 # TEAM
 
     Jason Taylor
+    Some other dude
 
 # THANKS
 
@@ -13,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    C++
